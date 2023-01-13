@@ -14,4 +14,4 @@ In this particular case, we utilize several libraries, which are :
 - Pandas Profiling
 
 ## Where can I get detailed information about 5W+1H quetions on missing values?
-I also put the (Medium article)[https://medium.com/@naharirasif/imputing-missing-well-log-data-values-with-simple-statistics-and-knn-imputer-58c7343d3163] for a better explanation on why we need to visualize missing data and how it affects our data analysis.
+I also put the [Medium article](https://medium.com/@naharirasif/imputing-missing-well-log-data-values-with-simple-statistics-and-knn-imputer-58c7343d3163) for a better explanation on why we need to visualize missing data and how it affects our data analysis.
