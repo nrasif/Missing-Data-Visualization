@@ -6,7 +6,6 @@ This is the code that I write systematically in Python notebook in order to get 
 
 ## What libraries do we use?
 In this particular case, we utilize several libraries, which are :
-- NumPy
 - Pandas
 - Matplotlib
 - Seaborn
